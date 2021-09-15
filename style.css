@@ -1,14 +1,3 @@
-html {
-  height: 100%;
-}
-body {
-  min-height: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  background: #EEE;
-}
 .flip-clock {
   text-align: center;
   perspective: 400px;
